@@ -1,0 +1,62 @@
+@charset "UTF-8";
+html {
+	overflow-y: scroll;
+	scroll-behavior: smooth;
+}
+
+.popup {
+    display: none;
+    height: 100vh;
+    width: 100%;
+    background: black;
+    opacity: 1;
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+  
+  .content {
+    background: #fff;
+    padding: 30px;
+    width: 50%;
+  }
+
+  .show {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+
+
+/* 見つけたボタン */
+  
+
+
+#pp_find {
+    display: felx;
+    height: 100vh;
+    width: 100%;
+    background: black;
+    opacity: 1;
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+  #cnt_find {
+    background: #fff;
+    padding: 30px;
+    width: 50%;
+  }
+
+  .show {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+
+
+  
